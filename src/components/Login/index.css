@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.btn {
+  background-color: #ffffff;
+  height: 40px;
+  width: 120px;
+  padding: 10px;
+  font-family: Roboto;
+  color: #1e293b;
+  font-size: 15px;
+  margin-bottom: 0px;
+  border-radius: 10px;
+  border-width: 0px;
+}
+
+.heading {
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: bold;
+  color: #f8fafc;
+}
